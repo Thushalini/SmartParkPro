@@ -43,10 +43,14 @@ This project was developed as part of Year 1, Semester 2 coursework for the Info
 Team Details:
 
 Project Title: Smart Park Pro
+
 Group Members:
 Thushalini Peranantham
+
 Nujaba Irfan
+
 Katipearachchi M C
+
 Thirumal Thiruverakan
 
 
