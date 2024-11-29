@@ -13,18 +13,20 @@ Admin Features:
 
 Manage parking slots and update availability.
 View reports on parking usage and revenue.
+
 🛠 Technologies Used
 Frontend:
 
 HTML5
 CSS3
 JavaScript
+
 Backend:
-
 PHP
-Database:
 
+Database:
 MySQL
+
 🖥 How It Works
 User Login: Users can sign in or create an account.
 Reserve a Spot: Users can select available slots for a specific time.
